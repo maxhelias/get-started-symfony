@@ -59,7 +59,7 @@ Ca donne ça
 
 C'est dans ce fichier que nous allons créer nos blocks que l'on remplira par des données.
 
-Plus tard nous pourrons avoir besoin des variables globales telles que `{{ app.request }}`, `{{ app.session }}`, `{{app.user }}`
+Plus tard nous pourrons avoir besoin des variables globales telles que `{{ app.request }}`, `{{ app.session }}` ou `{{app.user }}`
 
 Documentation Twig : https://twig.symfony.com/doc/3.x/
 Documentation Symfony : https://symfony.com/doc/current/templates.html

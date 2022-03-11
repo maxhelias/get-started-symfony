@@ -24,4 +24,4 @@ Vous devriez voir votre nouvelle route `app_blog` dans la liste.
 ![Web Debug Toolbar](assets/web-debug-toolbar.png)
 
 Si vous retournez un contenu HTML via votre controller, Symfony vous rajoutera ce bandeau en base de votre application avec toutes les informations de votre application.
-Pareil que pour la console, plus vous installeez de nouveau bundle, plus vous aurez d'information sur la debug toolbar.
+Pareil que pour la console, plus vous installerez de nouveau bundle, plus vous aurez d'information sur la debug toolbar.
