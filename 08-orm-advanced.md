@@ -92,8 +92,8 @@ Et il ne nous reste plus qu'à mettre à jour notre formulaire, rendons-nous sur
         $builder
             ->add('title')
             ->add('content')
-            ->add('category', EntityType::class, [
-                'class' => Category::class,
+            ->add('author', EntityType::class, [
+                'class' => Author::class,
                 'choice_label' => 'name',
             ])
             ->add('save', SubmitType::class)
