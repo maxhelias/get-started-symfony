@@ -132,3 +132,4 @@ twig:
 ```
 
 Aller plus loin avec les formulaires : https://symfony.com/doc/current/forms.html
+List des contraintes : https://symfony.com/doc/current/validation.html#basic-constraints
